@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "mobile": "987-654-3210",
+      "email": "jane.smith@example.com",
+      "photo": "https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png"
+    },
+    {
+      "id": "4ab6",
+      "name": "Rock",
+      "photo": "https://fortune.com/img-assets/wp-content/uploads/2024/01/GettyImages-1473068777-e1706015943645.jpg?w=1440&q=75",
+      "mobile": "98989898",
+      "email": "peopleschamp@gmail.com",
+      "title": "Champion",
+      "group": "Friends"
+    }
+  ]
+}
